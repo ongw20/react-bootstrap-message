@@ -1,2 +1,2 @@
 # react-bootstrap-message
-Bootstrap notification for React.
+Bootstrap message for React.
